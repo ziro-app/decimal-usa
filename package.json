@@ -14,7 +14,7 @@
   "keywords": [],
   "author": "Vitor Barbosa",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "ava": "^3.2.0"
   }
 }
