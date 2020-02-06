@@ -129,3 +129,11 @@ test('Receive object', t => {
     console.log(expected)
     t.is(result, expected)
 })
+test('Receive no argument', t => {
+    const result = decimalUsa()
+    const expected = NaN
+    console.log('Receive object')
+    console.log(result)
+    console.log(expected)
+    t.is(result, expected)
+})
